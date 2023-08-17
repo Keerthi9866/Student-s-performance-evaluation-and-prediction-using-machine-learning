@@ -29,4 +29,4 @@ In this project,
 4. Predicted every student's Performance in the current year based on the previous semester performance using Multiple Linear Regression.
 
 
-As a result,We identify Fisher's LDA provideedmost accurate result and classified student's into 4 categories like Gate,Higher Studies,Not Eligible,Programmer.
+As a result,We identify Fisher's LDA provided most accurate result and classified student's into 4 categories like Gate,Higher Studies,Not Eligible,Programmer.
